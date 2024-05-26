@@ -28,6 +28,10 @@ pip install -r requirements.txt
 ```bash
 nano .env
 ```
+In the file add the following Variable and include your OpenAI API Key
+```bash
+OPENAI_API_KEY=
+```
 
 ## Running the Program
 Once the above requirements have been satisfied all you need to do is run the script. If you have a link or local file you will pass the full URL or full path to the file into the script when asked
